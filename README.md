@@ -2,6 +2,8 @@
 
 A simple Tic Tac Toe game implemented using HTML, CSS, and vanilla JavaScript. This project demonstrates basic DOM manipulation and game logic implementation. The game allows two players to take turns marking spaces in a 3×3 grid. The first player to align three of their marks in a row (vertically, horizontally, or diagonally) wins the game. If all spaces are filled and no player has won, the game ends in a tie.
 
+## Live Demo: https://kumarbanty143.github.io/tic-tac-toe/
+
 ## How to Play
 
 1. Open the game in your web browser.
